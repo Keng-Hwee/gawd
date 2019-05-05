@@ -1,23 +1,8 @@
 {
-    "name": "gawd",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Keng-Hwee/gawd.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/Keng-Hwee/gawd/issues"
-    },
-    "homepage": "https://github.com/Keng-Hwee/gawd#readme",
-    "dependencies": {
-        "jquery": "^3.4.1",
-        "normalize.css": "^8.0.1"
-    }
+  "name": "travel-site",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "normalize.css": "^4.1.1"
+  }
 }
